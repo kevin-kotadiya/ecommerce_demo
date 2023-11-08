@@ -1,5 +1,5 @@
 from django.contrib import admin
-from .models import*
+from .models import user_data,product
 from django.utils.html import format_html
 # Register your models here.
 
